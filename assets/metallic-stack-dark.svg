@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="236" viewBox="0 0 880 236" role="img" aria-label="Language &amp; Architecture Specification">
+  <style>
+    .grow { transform-box: fill-box; transform-origin: left; animation: grow 1.1s cubic-bezier(0.22, 1, 0.36, 1) both; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .grow { animation: none !important; } }
+  </style>
+  
+  <defs>
+    <linearGradient id="st-chassis" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161920"/>
+      <stop offset="50%" stop-color="#0f1116"/>
+      <stop offset="100%" stop-color="#0a0c10"/>
+    </linearGradient>
+    <linearGradient id="st-plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e222b"/>
+      <stop offset="100%" stop-color="#12151b"/>
+    </linearGradient>
+    <linearGradient id="st-chrome-text" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="65%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#64748b"/>
+    </linearGradient>
+    <linearGradient id="st-rim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="35%" stop-color="#ffffff" stop-opacity="0.32"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="65%" stop-color="#ffffff" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="st-sheen" x1="0" y1="0" x2="1" y2="0.2">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="st-mercury" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#64748b"/>
+      <stop offset="60%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <pattern id="st-brushed" width="40" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="1" x2="40" y2="1" stroke="#ffffff" stroke-opacity="0.018" stroke-width="1"/>
+      <line x1="0" y1="3" x2="40" y2="3" stroke="#000000" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <pattern id="st-dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.75" fill="#64748b" fill-opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="878" height="234" rx="14" fill="url(#st-chassis)" stroke="#262b36" stroke-width="1.5"/>
+  <rect x="2" y="2" width="876" height="232" rx="13" fill="url(#st-brushed)"/>
+  <line x1="24" y1="2" x2="856" y2="2" stroke="url(#st-rim)" stroke-width="1.5"/>
+  <circle cx="16" cy="16" r="3.2" fill="#0a0c10" stroke="#262b36" stroke-width="1"/>
+  <line x1="14.2" y1="16" x2="17.8" y2="16" stroke="#64748b" stroke-width="0.8"/>
+  <circle cx="864" cy="16" r="3.2" fill="#0a0c10" stroke="#262b36" stroke-width="1"/>
+  <line x1="862.2" y1="16" x2="865.8" y2="16" stroke="#64748b" stroke-width="0.8"/>
+  <circle cx="16" cy="220" r="3.2" fill="#0a0c10" stroke="#262b36" stroke-width="1"/>
+  <line x1="14.2" y1="220" x2="17.8" y2="220" stroke="#64748b" stroke-width="0.8"/>
+  <circle cx="864" cy="220" r="3.2" fill="#0a0c10" stroke="#262b36" stroke-width="1"/>
+  <line x1="862.2" y1="220" x2="865.8" y2="220" stroke="#64748b" stroke-width="0.8"/>
+
+  <text x="36" y="38" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="700" letter-spacing="0.16em" fill="#64748b">METALLURGICAL COMPOSITION // CODEBASE DISTRIBUTION</text>
+  <text x="844" y="38" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="700" letter-spacing="0.12em" fill="#94a3b8">VERIFIED TELEMETRY</text>
+  <line x1="36" y1="50" x2="844" y2="50" stroke="#262b36" stroke-width="1"/>
+
+  
+    <g transform="translate(36, 70)">
+      <text x="0" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="800" letter-spacing="0.08em" fill="#f1f5f9">TYPESCRIPT</text>
+      <text x="155" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#94a3b8">75%</text>
+      <rect x="205" y="3" width="360" height="12" rx="3" fill="#181b22" stroke="#262b36" stroke-width="1"/>
+      <rect x="206" y="4" width="270" height="10" rx="2" fill="url(#st-mercury)" class="grow"/>
+      <text x="582" y="13.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748b">Primary Architecture · Full-Stack &amp; Game Loops</text>
+    </g>
+    <g transform="translate(36, 108)">
+      <text x="0" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="800" letter-spacing="0.08em" fill="#f1f5f9">HTML5 / CANVAS</text>
+      <text x="155" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#94a3b8">19%</text>
+      <rect x="205" y="3" width="360" height="12" rx="3" fill="#181b22" stroke="#262b36" stroke-width="1"/>
+      <rect x="206" y="4" width="68" height="10" rx="2" fill="url(#st-mercury)" class="grow"/>
+      <text x="582" y="13.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748b">Interactive Surfaces · Museum &amp; Board Layouts</text>
+    </g>
+    <g transform="translate(36, 146)">
+      <text x="0" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="800" letter-spacing="0.08em" fill="#f1f5f9">PYTHON</text>
+      <text x="155" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#94a3b8">4%</text>
+      <rect x="205" y="3" width="360" height="12" rx="3" fill="#181b22" stroke="#262b36" stroke-width="1"/>
+      <rect x="206" y="4" width="28" height="10" rx="2" fill="url(#st-mercury)" class="grow"/>
+      <text x="582" y="13.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748b">Market Scanners · Data Automation &amp; Tooling</text>
+    </g>
+    <g transform="translate(36, 184)">
+      <text x="0" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="800" letter-spacing="0.08em" fill="#f1f5f9">JAVASCRIPT</text>
+      <text x="155" y="14" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#94a3b8">2%</text>
+      <rect x="205" y="3" width="360" height="12" rx="3" fill="#181b22" stroke="#262b36" stroke-width="1"/>
+      <rect x="206" y="4" width="18" height="10" rx="2" fill="url(#st-mercury)" class="grow"/>
+      <text x="582" y="13.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748b">Browser Userscripts · Tampermonkey Runtime</text>
+    </g>
+</svg>
