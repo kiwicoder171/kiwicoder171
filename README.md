@@ -1,75 +1,53 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/pixel-studio-light.svg" />
-  <img src="./assets/pixel-studio-dark.svg" width="100%" alt="kiwicoder171's pixel studio" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-hero-light.svg" />
+  <img src="./assets/metallic-hero-dark.svg" width="100%" alt="KIWICODER171 — Minimal Metallic Engineering Monolith" />
 </picture>
-
-<sub>The monitor scrolls live project commits · coffee is brewing · a cat guards the build.</sub>
 
 <br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-skyline-light.svg" />
-  <img src="./assets/neon-skyline-dark.svg" width="100%" alt="kiwicoder171's year as a neon skyline" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-about-light.svg" />
-  <img src="./assets/neon-about-dark.svg" width="100%" alt="About kiwicoder171" />
-</picture>
-
----
-
-### 🕹️ Featured Landmarks
 
 <p align="center">
   <a href="https://github.com/kiwicoder171/boardgamezaa">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/card-boardgamezaa-light.svg" />
-      <img src="./assets/card-boardgamezaa-dark.svg" width="49%" alt="boardgamezaa: Interactive digital board game platform" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-card-boardgamezaa-light.svg" />
+      <img src="./assets/metallic-card-boardgamezaa-dark.svg" width="49%" alt="boardgamezaa: Interactive digital board game platform" />
     </picture>
   </a>
   <a href="https://github.com/kiwicoder171/tornops">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/card-tornops-light.svg" />
-      <img src="./assets/card-tornops-dark.svg" width="49%" alt="tornops: Faction operations & tactical suite" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-card-tornops-light.svg" />
+      <img src="./assets/metallic-card-tornops-dark.svg" width="49%" alt="tornops: Faction operations & tactical suite" />
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/kiwicoder171/linport">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/card-linport-light.svg" />
-      <img src="./assets/card-linport-dark.svg" width="49%" alt="linport: Lin Art Museum interactive showcase" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-card-linport-light.svg" />
+      <img src="./assets/metallic-card-linport-dark.svg" width="49%" alt="linport: Lin Art Museum interactive showcase" />
     </picture>
   </a>
   <a href="https://github.com/kiwicoder171/todolist">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/card-todolist-light.svg" />
-      <img src="./assets/card-todolist-dark.svg" width="49%" alt="todolist: Couple Task Hub productivity app" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-card-todolist-light.svg" />
+      <img src="./assets/metallic-card-todolist-dark.svg" width="49%" alt="todolist: Couple Task Hub productivity app" />
     </picture>
   </a>
 </p>
 
----
-
-### ⚡ Language Billboards & Stack
+<br />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-stack-light.svg" />
-  <img src="./assets/neon-stack-dark.svg" width="100%" alt="Languages: TypeScript, HTML, Python, JavaScript" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-stack-light.svg" />
+  <img src="./assets/metallic-stack-dark.svg" width="100%" alt="Codebase Distribution: TypeScript 75%, HTML5 19%, Python 4%, JavaScript 2%" />
 </picture>
 
----
-
-### 📡 Nightlife Telemetry & Momentum
+<br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-log-light.svg" />
-  <img src="./assets/neon-log-dark.svg" width="100%" alt="26 weeks of contributions and streak telemetry" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metallic-telemetry-light.svg" />
+  <img src="./assets/metallic-telemetry-dark.svg" width="100%" alt="26-Week Contribution Skyline & Chronograph" />
 </picture>
 
 </div>
