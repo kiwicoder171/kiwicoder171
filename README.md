@@ -1,73 +1,115 @@
 <div align="center">
 
-# Kiwi (`kiwicoder171`)
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · kiwicoder171</sub></p>
+<h1>kiwicoder171</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-**Full-Stack & Game Systems Developer · TypeScript Specialist**
-
-Building tactile web platforms, interactive game systems, and specialized operations tooling.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React%20%2F%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
-</p>
-
+<p><a href="https://github.com/kiwicoder171">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/293661270?v=4" width="180" alt="kiwicoder171 GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### 🌟 Featured Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎲 <a href="https://github.com/kiwicoder171/boardgamezaa">BoardGame Zaa</a></h4>
-      <p>Interactive digital board game web platform and game session hub featuring real-time state management and tactile game dynamics.</p>
-      <sub><b>Stack:</b> TypeScript · Web Architecture · Interactive UI</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/kiwicoder171/tornops">Torn Faction Suite (TornOps)</a></h4>
-      <p>Tactical operations dashboard and resource management suite engineered for Torn.com factions with real-time analytics.</p>
-      <sub><b>Stack:</b> TypeScript · API Integration · Data Pipelines</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/kiwicoder171/linport">Lin Art Museum</a></h4>
-      <p>Curated digital art exhibition and interactive gallery showcase designed with focus on typography and fluid motion.</p>
-      <sub><b>Stack:</b> TypeScript · Modern Frontend · Creative Visuals</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✅ <a href="https://github.com/kiwicoder171/todolist">Couple Task Hub</a></h4>
-      <p>Clean, distraction-free shared productivity dashboard and daily habit coordination app for couples.</p>
-      <sub><b>Stack:</b> Web Standards · Responsive UI · State Sync</sub>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · HTML · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>226 contributions · 27 active days</p></td>
+</tr>
 </table>
 
----
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-### 💻 Engineering Mindset
+<h2>Proof at a glance</h2>
 
-```typescript
-const engineer: DeveloperProfile = {
-  coreStack: ["TypeScript", "Modern JavaScript", "HTML5 / Canvas", "Node.js"],
-  domains: [
-    "Interactive Game Engines & Board Game Mechanics",
-    "High-Utility Operations & Faction Tooling",
-    "Clean, High-Aesthetic Web Applications"
-  ],
-  architecture: "Type-safe, zero-bloat, deterministic logic."
-};
-```
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>226</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="kiwicoder171 GitHub proof metrics" />
+</picture>
+</p>
 
-<div align="center">
+<h2>Selected work</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiwicoder171&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwicoder171&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="155" />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&repos=kiwicoder171%2Fboardgamezaa%2Ckiwicoder171%2Flinport%2Ckiwicoder171%2Ftodolist%2Ckiwicoder171%2Ftornops&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&repos=kiwicoder171%2Fboardgamezaa%2Ckiwicoder171%2Flinport%2Ckiwicoder171%2Ftodolist%2Ckiwicoder171%2Ftornops&v=recruiter-projects-1&mode=dark" width="100%" alt="kiwicoder171 selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/kiwicoder171/boardgamezaa">boardgamezaa</a></h3>
+<p>Interactive digital board game web platform and game session hub</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/kiwicoder171/boardgamezaa">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/kiwicoder171/linport">linport</a></h3><p>Lin Art Museum: Interactive digital art gallery &amp; portfolio showcase</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/kiwicoder171/todolist">todolist</a></h3><p>Couple Task Hub: Clean shared productivity &amp; task management web app</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/kiwicoder171/tornops">tornops</a></h3><p>Torn.com faction operations dashboard &amp; tactical management suite</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="kiwicoder171 technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>75% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kiwicoder171&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293661270%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="kiwicoder171 contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/kiwicoder171">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>kiwicoder171 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
