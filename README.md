@@ -1,76 +1,75 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=kiwicoder171&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/pixel-room?username=kiwicoder171&mode=dark&v=2026-11-11" width="100%" alt="kiwicoder171's pixel studio" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pixel-studio-light.svg" />
+  <img src="./assets/pixel-studio-dark.svg" width="100%" alt="kiwicoder171's pixel studio" />
 </picture>
 
-<sub>The monitor scrolls my latest commits · coffee is brewing · a cat guards the build.</sub>
+<sub>The monitor scrolls live project commits · coffee is brewing · a cat guards the build.</sub>
 
----
+<br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-city?username=kiwicoder171&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/neon-city?username=kiwicoder171&mode=dark&v=2026-11-11" width="100%" alt="kiwicoder171's year as a neon skyline" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-skyline-light.svg" />
+  <img src="./assets/neon-skyline-dark.svg" width="100%" alt="kiwicoder171's year as a neon skyline" />
 </picture>
 
-<sub>Every skyscraper is a week of contributions · billboards track my top languages.</sub>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-about-light.svg" />
+  <img src="./assets/neon-about-dark.svg" width="100%" alt="About kiwicoder171" />
+</picture>
 
 ---
 
-### 🕹️ Featured Works
+### 🕹️ Featured Landmarks
 
 <p align="center">
   <a href="https://github.com/kiwicoder171/boardgamezaa">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=0&r=boardgamezaa&mode=light&v=2026-11-11" />
-      <img src="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=0&r=boardgamezaa&mode=dark&v=2026-11-11" width="49%" alt="boardgamezaa: Interactive digital board game platform" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-boardgamezaa-light.svg" />
+      <img src="./assets/card-boardgamezaa-dark.svg" width="49%" alt="boardgamezaa: Interactive digital board game platform" />
     </picture>
   </a>
   <a href="https://github.com/kiwicoder171/tornops">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=1&r=tornops&mode=light&v=2026-11-11" />
-      <img src="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=1&r=tornops&mode=dark&v=2026-11-11" width="49%" alt="tornops: Faction operations & tactical suite" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-tornops-light.svg" />
+      <img src="./assets/card-tornops-dark.svg" width="49%" alt="tornops: Faction operations & tactical suite" />
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/kiwicoder171/linport">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=2&r=linport&mode=light&v=2026-11-11" />
-      <img src="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=2&r=linport&mode=dark&v=2026-11-11" width="49%" alt="linport: Lin Art Museum interactive showcase" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-linport-light.svg" />
+      <img src="./assets/card-linport-dark.svg" width="49%" alt="linport: Lin Art Museum interactive showcase" />
     </picture>
   </a>
   <a href="https://github.com/kiwicoder171/todolist">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=3&r=todolist&mode=light&v=2026-11-11" />
-      <img src="https://www.gitskins.com/api/section/neon-card?username=kiwicoder171&i=3&r=todolist&mode=dark&v=2026-11-11" width="49%" alt="todolist: Couple Task Hub productivity app" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-todolist-light.svg" />
+      <img src="./assets/card-todolist-dark.svg" width="49%" alt="todolist: Couple Task Hub productivity app" />
     </picture>
   </a>
 </p>
 
 ---
 
-### ⚡ Technology Matrix
+### ⚡ Language Billboards & Stack
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-stack?username=kiwicoder171&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/neon-stack?username=kiwicoder171&mode=dark&v=2026-11-11" width="100%" alt="TypeScript, HTML, Python, JavaScript, CSS" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-stack-light.svg" />
+  <img src="./assets/neon-stack-dark.svg" width="100%" alt="Languages: TypeScript, HTML, Python, JavaScript" />
 </picture>
 
 ---
 
-### 📡 Telemetry & Momentum
+### 📡 Nightlife Telemetry & Momentum
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neon-log?username=kiwicoder171&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/neon-log?username=kiwicoder171&mode=dark&v=2026-11-11" width="100%" alt="Contributions, streak and momentum activity" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neon-log-light.svg" />
+  <img src="./assets/neon-log-dark.svg" width="100%" alt="26 weeks of contributions and streak telemetry" />
 </picture>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/kiwicoder171"><b>GitHub Profile</b></a> · <sub>Crafted with Pixel Studio & Neon Skyline via <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-</p>
 
 </div>
